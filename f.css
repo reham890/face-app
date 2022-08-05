@@ -1,0 +1,85 @@
+* { 
+    background-color:white;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ 
+ .header{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    font-size: xx-large;
+    color: white;
+    background-color: rgb(27, 27, 105);
+    
+    
+}
+
+
+ .content{
+    background-color: rgb(27, 27, 105);
+text-align:right;
+font-size: large;
+}
+
+.input1{
+border: none;
+height: 20px;
+border-radius: 2px;
+
+}
+.input1:hover{
+    cursor: pointer;
+    background-color: wheat;
+}
+
+.input2{
+    border: none;
+    height: 20px;
+    border-radius: 2px;
+    
+    }
+    .input2:hover{
+        cursor: pointer;
+        background-color: wheat;
+    }
+ .div2{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(194, 189, 189);
+}
+img{
+    margin:0px 0px 30px 0px;;
+    
+}
+.div3{
+background-color: rgb(194, 189, 189);
+width: 500px;
+height: 400px;
+text-align: center;
+font-size:x-large;
+font-weight: bold;
+}
+#day-select{
+    width: 30px;
+}
+
+#month-select{
+    width: 30px;
+    margin: 30px;
+}
+
+#year-select{
+    width: 30px;
+}
+.creat{
+background-color: blue;
+color: aliceblue;
+cursor: pointer;
+border: none;
+height: 20px;
+border-radius: 2px;
+}
+.creat:hover{
+    background-color:  rgb(194, 189, 189);
+}
